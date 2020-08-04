@@ -1,4 +1,4 @@
-# Intent-Sederhana-1
+# Intent-Android-Sederhana-1
 
 
 [Petunjuk Penggunaan]
